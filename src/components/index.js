@@ -8,3 +8,4 @@ export { default as Testimonials } from './Testimonials';
 export { default as Hero } from './Hero';
 export { default as Footer } from './Footer';
 export { default as Billing } from './billing';
+export { default as FeedbackCard } from './FeedbackCard';
